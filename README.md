@@ -103,8 +103,3 @@ This workflow helps collect important emails like internships, offers, or course
 * A Google account with Gmail + Google Sheets access
 * OAuth2 credentials for both services
 
-
-
--
-Just tell me **“add badges”** or **“add full guide with screenshots”**.
-```
