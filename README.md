@@ -36,7 +36,7 @@ n8n_gmail-to-sheets/
 
 ## 🖼️ Workflow Screenshot
 
-![Workflow Screenshot](https://github.com/umamanipraharshitha/n8n_gmail-to-sheets/blob/main/Screenshot%202025-11-23%20153918.png)
+![Workflow Screenshot](https://github.com/umamanipraharshitha/n8n_gmail-to-sheets/blob/main/WhatsApp Image 2026-01-12 at 10.26.13.jpeg)
 
 ---
 
